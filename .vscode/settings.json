@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ppos_data.h": "c",
+        "ppos.h": "c",
+        "ucontext.h": "c",
+        "stdio.h": "c"
+    }
+}
